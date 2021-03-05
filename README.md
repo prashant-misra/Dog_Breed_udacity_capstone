@@ -1,4 +1,6 @@
 # Udacity's Data Scientist Nanodegree Capstone Project: Dog Breed Classifier
+# Updated on 5th March 2021
+# By - Prashant Misra
 
 ### Table of Contents:
 1) Project Overview
