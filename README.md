@@ -94,7 +94,7 @@ Here we have used CNN with VGG19 BottleNeck Feature to identify the the 133 dog 
 	4) Lastly one more Dense Layer with Softmax 
 The aim was to attain atleast 66% acurracy. This model gave a 70.2% of accuracy on test data.
 
-### Justifiaction
+### Justification
 	Adding a layer of Relu Activation has substantially increased the metric(Accuracy) of the model. Since, the dataset is small, there was a chance 
 	of overfitting which can decrease the performance for unknown data. Thus we have used a dropout rate of 30%. Lastly we preferred 20 epochs for training.
 
