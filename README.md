@@ -112,9 +112,8 @@ As a beginner to CNN, I felt breed classification is the most challenging part. 
 ### Discussion
 	When we used VGG16 with two layers and softmax activation we got near about 44.6% accuracy.
 	In the VGG19 Model, firstly only Relu Activation was used, but suprisingly after 20 epoch training it did not reached the 66% Accuracy level. Changing number of nodes 		and changing activation of one layer to softmax increased the accuracy to 70%.
-	Github link: https://github.com/mahananda96/Dog-Breed-Classifier
-	Blog link: https://mahananda96.medium.com/udacity-data-scientist-nanodegree-capstone-project-dog-breed-classifier-project-3bff0c6cbd78
-
+	Github link: https://github.com/prashant-misra/Dog_Breed_udacity_capstone
+	Blog link: https://prashant-misra12.medium.com/udacity-data-scientist-nanodegree-capstone-project-dog-breed-classifier-project-1fa29726adea
 ### Improvements and Refinements
 	Here we have used only 133 dog breeds to classify. Many dog breed are their whose facial features resemble each other closely. So more classification among 
 	dog breed will be nice which analyzez unique features in each breed. This can be done by feeding it with more variation in train dataset. Particularly 
