@@ -44,6 +44,7 @@ As a beginner to CNN, I felt breed classification is the most challenging part. 
 
 ### Libraries:
 The libraries used in this project are:
+
 	Keras: RestNet50 and Image function is ued from Keras.
 	OpenCV: OpenCV's implementation of Haar feature-based cascade classifiers is used for human face detection.
 	Matplotlib: It is using for visualization of the dog dataset w.r.t Dog Breeds.
